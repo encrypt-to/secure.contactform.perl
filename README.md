@@ -17,7 +17,8 @@ Follow these instructions to get the form working:
 
 ### Changelog
 
-v1.0 Release
+* v1.1 Update OpenPGP.js to v0.3.2
+* v1.0 Release
 
 ### MIT License
 
